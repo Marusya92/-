@@ -1,0 +1,14 @@
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\bin\Debug\net7.0\Object3.exe
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\bin\Debug\net7.0\Object3.deps.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\bin\Debug\net7.0\Object3.runtimeconfig.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\bin\Debug\net7.0\Object3.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\bin\Debug\net7.0\Object3.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\obj\Debug\net7.0\Object3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\obj\Debug\net7.0\Object3.AssemblyInfoInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\obj\Debug\net7.0\Object3.AssemblyInfo.cs
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\obj\Debug\net7.0\Object3.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\obj\Debug\net7.0\Object3.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\obj\Debug\net7.0\refint\Object3.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\obj\Debug\net7.0\Object3.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\obj\Debug\net7.0\Object3.genruntimeconfig.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\рекурсия\recursion\Object3\obj\Debug\net7.0\ref\Object3.dll
