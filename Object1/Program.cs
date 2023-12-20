@@ -8,8 +8,8 @@ class Program
 {
     static void Main()
     {
-        int M = 5;
-        int N = 10;
+        int M = 10;
+        int N = 20;
 
         PrintNaturalNumbersInRange(M, N);
     }
